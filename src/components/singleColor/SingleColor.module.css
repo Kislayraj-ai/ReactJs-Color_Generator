@@ -1,0 +1,35 @@
+.colorContainer {
+  padding: 1rem 2rem;
+  cursor: pointer;
+  font-size: 1rem;
+  text-transform: none;
+}
+.percent-value {
+  margin-bottom: 0;
+  color: hsl(209, 61%, 16%);
+}
+.precent-value.light {
+  color: #fff;
+}
+.color-value {
+  color: hsl(209, 61%, 16%);
+  margin-bottom: 0;
+}
+.colorlight .color-value {
+  color: #fff;
+}
+.colorlight .percent-value {
+  color: #fff;
+}
+
+
+.clipBoard {
+  color: rgb(51, 50, 50);
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}
+
+.colorlight .clipBoard{
+  color: #ffff;
+}
