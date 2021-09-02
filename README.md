@@ -7,6 +7,7 @@
  
 ## Visit the Site (on netlify)
 [Color-Generator](https://color-shadesgenerator.netlify.app)
+Click on the link to know how it really works in real ....
 
 ### How It Works
 
