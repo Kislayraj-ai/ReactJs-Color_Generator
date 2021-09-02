@@ -3,6 +3,10 @@
 - Color Generator dispalys Different Color shades from light to dark according
   to the Hex Color,rgb or Color name provided in Input feild.For Example Green
   Color Hex Color code is `008000` , rgb(255,255,255) , or yellow.
+  
+ 
+## Visit the Site (on netlify)
+[Color-Generator](https://color-shadesgenerator.netlify.app)
 
 ### How It Works
 
